@@ -1,0 +1,45 @@
+  { "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [102.0, 0.0], [103.0, 1.0], [104.0, 0.0], [105.0, 1.0]
+          ]
+        },
+        "properties": {
+          "c_fbs_id": "1111",
+          "c_msisdn":"13613482265",
+          "c_base_station_name":"XX"
+        }
+      },
+		      { "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [102.0, 0.0], [103.0, 1.0], [104.0, 0.0], [105.0, 1.0]
+            ]
+          },
+        "properties": {
+          "c_fbs_id": "1111",
+		  "c_msisdn":"13613482265",
+		  "c_base_station_name":"XX"
+		  
+          }
+        },
+		      { "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [102.0, 0.0], [103.0, 1.0], [104.0, 0.0], [105.0, 1.0]
+            ]
+          },
+        "properties": {
+          "c_fbs_id": "1111",
+		  "c_msisdn":"13613482265",
+		  "c_base_station_name":"XX"
+		  
+          }
+        }
+       ]
+     }

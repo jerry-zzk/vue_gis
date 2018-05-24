@@ -1,0 +1,90 @@
+{
+    "features": 
+    [
+      {
+          "geometry": {
+              "coordinates": [87.8695,31.6846],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [88.1982, 33.3215],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [82.3645, 32.7667],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [86.2427, 29.5093],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [106.6003,23.9227],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [109.3909,30.9265],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [ 99.9207,31.0803],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [100.7446,23.4229],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [115.1477,40.8527],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [117.199,39.1257],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [117.5757,41.4075],
+              "type": "Point"
+          },
+          "type":"Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [115.1477,40.8527],
+              "type": "Point"
+          },
+          "type":"Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+}

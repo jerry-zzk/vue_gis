@@ -1,0 +1,146 @@
+{
+    "features": 
+    [
+      {
+          "geometry": {
+              "coordinates": [ 117.199,39.1257],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494750900,
+              "c_longitude": 117.199,
+              "c_fbs_id": "20170514163500-430111-1",
+              "c_base_station_name": "长沙石马村王家湾ZG-B880016PT-1",
+              "c_district_code": "430111",
+              "c_address": "长沙雨花区石马村王家湾无线机房",
+              "c_number": 72,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 39.1257,
+              "c_count": 74
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [117.1829,39.0022],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494751500,
+              "c_longitude":117.1829,
+              "c_fbs_id": "20170514164500-430111-3",
+              "c_base_station_name": "长沙万家丽中路与劳动东路交口ZD-B8700113PT-1",
+              "c_district_code": "430111",
+              "c_address": null,
+              "c_number": 89,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 39.0022,
+              "c_count": 91
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [115.1477,40.8527],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494751500,
+              "c_longitude": 115.1477,
+              "c_fbs_id": "20170514164500-430111-2",
+              "c_base_station_name": "长沙万家丽中路与劳动东路交口ZD-B8700113PT-1",
+              "c_district_code": "430111",
+              "c_address": null,
+              "c_number": 79,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 40.8527,
+              "c_count": 81
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [87.8695,31.6846],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494751800,
+              "c_longitude": 87.8695,
+              "c_fbs_id": "20170514164500-430111-2",
+              "c_base_station_name": "长沙东片区二机楼ZG-B8800151PT-1",
+              "c_district_code": "430111",
+              "c_address": "长沙雨花区东片2机楼无线机房",
+              "c_number": 55,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 31.6846,
+              "c_count": 55
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [124.1455,41.1987],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494752100,
+              "c_longitude": 124.1455,
+              "c_fbs_id": "20170514164500-430111-2",
+              "c_base_station_name": "长沙合丰堤委会ZG-B880047PT-2",
+              "c_district_code": "430111",
+              "c_address": "长沙雨花区合丰堤委会无线机房",
+              "c_number": 214,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 41.1987,
+              "c_count": 220
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [124.541,47.5818],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494751500,
+              "c_longitude": 124.541,
+              "c_fbs_id": "20170514164500-430111-5",
+              "c_base_station_name": "长沙万家丽中路与劳动东路交口ZD-B8700113PT-1",
+              "c_district_code": "430111",
+              "c_address": null,
+              "c_number": 78,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 47.5818,
+              "c_count": 80
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [112.95232, 28.22994],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494756600,
+              "c_longitude": 112.95232,
+              "c_fbs_id": "20170514181000-430104-2",
+              "c_base_station_name": "长沙金湘大厦ZD-B8700110PT-1",
+              "c_district_code": "430104",
+              "c_address": "长沙岳麓区金湘大厦无线机房",
+              "c_number": 57,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 28.22994,
+              "c_count": 58
+          },
+          "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+}

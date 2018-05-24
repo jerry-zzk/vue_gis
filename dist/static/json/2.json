@@ -1,0 +1,48 @@
+{
+    "features": 
+    [
+      {
+          "geometry": {
+              "coordinates": [ 117.199,39.1257],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494750900,
+              "c_longitude": 117.199,
+              "c_fbs_id": "20170514163500-430111-1",
+              "c_base_station_name": "长沙石马村王家湾ZG-B880016PT-1",
+              "c_district_code": "430111",
+              "c_address": "长沙雨花区石马村王家湾无线机房",
+              "c_number": 72,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 39.1257,
+              "c_count": 74,
+              "ip":"127.0.0.1"
+          },
+          "type": "Feature"
+      },
+      {
+          "geometry": {
+              "coordinates": [117.1829,39.0022],
+              "type": "Point"
+          },
+          "properties": {
+              "c_timestamp": 1494751500,
+              "c_longitude":117.1829,
+              "c_fbs_id": "20170514164500-430111-3",
+              "c_base_station_name": "长沙万家丽中路与劳动东路交口ZD-B8700113PT-1",
+              "c_district_code": "430111",
+              "c_address": null,
+              "c_number": 89,
+              "c_msisdn": null,
+              "type": 1,
+              "c_latitude": 39.0022,
+              "c_count": 91,
+              "ip":"168.92.6.13"
+          },
+          "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+}
